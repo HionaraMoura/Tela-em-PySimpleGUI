@@ -1,2 +1,2 @@
-# projeto1
+Simplesmente uma interface gráfica simples
  
